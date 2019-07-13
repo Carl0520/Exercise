@@ -2,6 +2,10 @@
 1. Split data into random train and valid test subsets at the ratio of 3:1:1
 2. Pretrained neural network Resnet, vgg16 and vgg19 are used to train the model,
 but the pretrained classifer is replaced with customized one.
+# Environmet
+pytorch v1.0
+
+python 3.6
 # Resnet50
 Loss:
 ![image](https://github.com/Carl0520/power/blob/master/resnet50/loss.png)
